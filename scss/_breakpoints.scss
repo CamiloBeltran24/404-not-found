@@ -1,0 +1,52 @@
+@media (min-width: 768px) {
+  .container {
+    // height: 100vh;
+    padding: 3rem 4rem;
+    overflow: hidden;
+    main {
+      .image_box {
+        img {
+          width: 100%;
+          max-width: 42rem;
+        }
+      }
+    }
+  }
+}
+@media (min-width: 1024px) {
+  .container {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    .title {
+      p {
+        margin-left: 4rem;
+      }
+    }
+    main {
+      flex-direction: row;
+      justify-content: space-between;
+      width: 100%;
+      // max-width: 1220px;
+      margin: 0 auto 7rem;
+      .text_box {
+        h3 {
+          font-size: 6.4rem;
+        }
+        p {
+          font-size: 2.4rem;
+          width: 385px;
+          // padding: 0 5rem;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 1220px) {
+  .image_box {
+    img {
+      max-width: 50rem;
+    }
+  }
+}
