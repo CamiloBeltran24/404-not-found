@@ -4,3 +4,12 @@ $primary-font: "Space Mono", monospace;
 $secondary-font: "Inconsolata", monospace;
 $background-btn: #333333;
 $color-text: #4f4f4f;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
