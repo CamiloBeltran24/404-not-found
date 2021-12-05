@@ -1,0 +1,30 @@
+{
+  "name": "404-not-found",
+  "version": "1.0.0",
+  "description": "Solucion para el reto 404 NOT FOUND del sitio web devChallenge.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiloBeltran24/404-not-found.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Responsive",
+    "Design",
+    "Frontend",
+    "Challenge"
+  ],
+  "author": "Christian Camilo Beltran Fonseca <cambelf.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CamiloBeltran24/404-not-found/issues"
+  },
+  "homepage": "https://github.com/CamiloBeltran24/404-not-found#readme",
+  "devDependencies": {
+    "sass": "^1.44.0"
+  }
+}
